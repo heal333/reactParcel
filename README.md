@@ -1,17 +1,9 @@
 clone the repo in you directory
-
-##
-
-        git clone git@github.com:heal333/reactParcel.git
-
 go into the repo
+go into the tailwind branch
 
 ##
 
+        git clone https://github.com/heal333/reactParcel.git
         cd ./reactParcel
-
-got into the tailwind branch
-
-##
-
         git checkout react_with_tailwind
