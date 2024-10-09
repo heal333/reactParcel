@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "source": "index.html",
     "scripts": {
-        "start": "parcel ./index.html"
+        "start": "parcel ./src/index.html"
     },
     "author": "",
     "license": "ISC",
